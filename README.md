@@ -1,4 +1,4 @@
-# FlickrBrowserApp
+# Flickr Browser App
 
 I created this app for viewing Flickr photos with specific tags which you can search in the app.
 It shows all the photos matching all the tags mentioned.
